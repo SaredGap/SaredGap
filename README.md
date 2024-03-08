@@ -7,6 +7,9 @@
 ## Actividad reciente en GitHub
 ![Sared's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaredGap&show_icons=true&theme=radical)
 
+## Juego Snake
+[![snake gif](https://github.com/SaredGap/SaredGap/blob/output/github-contribution-grid-snake.gif)](https://github.com/SaredGap)
+
 ## Acerca de mí
 - 🎓 Actualmente cursando Ingeniería en Desarrollo y Gestión de Software.
 - 💻 Apasionado/a por la resolución de problemas y la creación de soluciones eficientes.
