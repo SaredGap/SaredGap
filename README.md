@@ -1,51 +1,17 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# ¡Hola, soy Sared! 👋
 
-###
+[![Spotify](https://img.shields.io/badge/Spotify-Sared-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/Sared_Garcia)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a desarrollador/a de software y estudiante de ingeniería en Desarrollo y Gestión de Software. Me encanta resolver problemas y crear soluciones eficientes mientras continúo aprendiendo y mejorando mis habilidades de desarrollo.
 
-###
+## Acerca de mí
+- 🎓 Actualmente cursando Ingeniería en Desarrollo y Gestión de Software.
+- 💻 Apasionado/a por la resolución de problemas y la creación de soluciones eficientes.
+- 🚀 Siempre buscando aprender y mejorar mis habilidades de desarrollo.
 
-<h1 align="center">Hola, Soy Sared</h1>
+## Mis habilidades
+- **Lenguajes de programación:** PHP, JavaScript, HTML, CSS, Python (con conocimientos básicos).
+- **Frameworks y bibliotecas:** CodeIgniter, React Native, Bootstrap, PHP puro, Android Studio.
+- **Herramientas de desarrollo:** Visual Studio Code, Android Studio, Unity, GitHub, Source, Sublime Text, XAMPP.
 
-###
-
-<h3 align="left">Un programador emergente graduado de la UTEM y especializado en programación web. En mi portafolio, encontrarás una muestra de mis proyectos, donde combino creatividad y habilidades técnicas para crear soluciones web innovadoras. ¡Echa un vistazo y descubre mi pasión por el desarrollo web!</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
+Estoy emocionado/a de compartir mi trabajo contigo y estoy abierto/a a colaboraciones y contribuciones. ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
