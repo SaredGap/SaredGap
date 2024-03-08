@@ -4,8 +4,7 @@
 
 ## Acerca de mí
 - 🎓 Graduado de la Universidad Tecnológica Metropolitana (UTEM) en Ingeniería en Desarrollo y Gestión de Software.
-- 💼 Actualmente trabajando en [tu_empresa_actual] como [tu_puesto].
-- 💻 Apasionado/a por la resolución de problemas y la creación de soluciones eficientes.
+- 💻 Apasionado por la resolución de problemas y la creación de soluciones eficientes.
 - 🚀 Siempre buscando aprender y mejorar mis habilidades de desarrollo.
 
 ## Mis habilidades
@@ -13,12 +12,9 @@
 - **Frameworks y bibliotecas:** CodeIgniter, React Native, Bootstrap, PHP puro, Android Studio.
 - **Herramientas de desarrollo:** Visual Studio Code, Android Studio, Unity, GitHub, Source, Sublime Text, XAMPP.
 
-## Proyectos Destacados
-### StudySaver 📚💰
-StudySaver es una aplicación móvil desarrollada en React Native que combina utilidades de estudio, gestión financiera y entretenimiento. Ofrece a los usuarios una amplia gama de funciones para mejorar su organización personal y disfrutar de una experiencia única.
+## Especialización y Disponibilidad
 
-### Sistema de Validación de Documentos 📑
-El Sistema de Validación de Documentos es una herramienta innovadora desarrollada en PHP y CodeIgniter para gestionar documentos de estudiantes. Proporciona interfaces específicas para alumnos, maestros y administradores, facilitando la validación y gestión de archivos académicos.
+🌐 Actualmente estoy enfocando mis esfuerzos en especializarme en el desarrollo de páginas web y aplicaciones web. Sin embargo, estoy abierto y dispuesto a contribuir en cualquier proyecto interesante que pueda surgir. Si tienes alguna idea o necesitas ayuda, no dudes en contactarme. Estoy emocionado por aprender y crecer junto a nuevos desafíos. 😊
 
 ## Estadísticas de GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaredGap&layout=compact)](https://github.com/SaredGap)
@@ -26,7 +22,7 @@ El Sistema de Validación de Documentos es una herramienta innovadora desarrolla
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Correo%20electrónico-sared646%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sared646@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sared%20Garc%C3%ADa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sared-garc%C3%ADa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sared%20Garc%C3%ADa-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sared5849242a0)
 
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme! 😊
