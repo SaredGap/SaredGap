@@ -12,11 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola, Soy Sared</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Un programador emergente graduado de la UTEM y especializado en programación web. En mi portafolio, encontrarás una muestra de mis proyectos, donde combino creatividad y habilidades técnicas para crear soluciones web innovadoras. ¡Echa un vistazo y descubre mi pasión por el desarrollo web!</h3>
 
 ###
 
@@ -47,9 +47,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
