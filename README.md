@@ -22,7 +22,7 @@
 ## Contacto
 
 [![Email](https://img.shields.io/badge/Correo%20electrónico-sared646%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sared646@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sared%20Garc%C3%ADa-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sared5849242a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sared%20García-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sared5849242a0)
 
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. Si estás interesado en colaborar o tienes alguna pregunta, ¡no dudes en contactarme! 😊
