@@ -12,5 +12,5 @@
 - **Frameworks y bibliotecas:** CodeIgniter, React Native, Bootstrap, PHP puro, Android Studio.
 - **Herramientas de desarrollo:** Visual Studio Code, Android Studio, Unity, GitHub, Source, Sublime Text, XAMPP.
 
-## Actividad reciente en GitHub
-![Sared's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaredGap&show_icons=true&theme=radical)
+## Lenguajes más utilizados
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaredGap&layout=compact)](https://github.com/SaredGap)
