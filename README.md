@@ -1,6 +1,6 @@
 # ¡Hola, soy Sared! 👋
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a desarrollador/a de software y estudiante de ingeniería en Desarrollo y Gestión de Software. Me encanta resolver problemas y crear soluciones eficientes mientras continúo aprendiendo y mejorando mis habilidades de desarrollo.
+¡Bienvenido/a a mi perfil de GitHub! Soy un programador emergente graduado de la UTEM y especializado en programación web. En mi portafolio, encontrarás una muestra de mis proyectos más recientes, donde combino creatividad y habilidades técnicas para crear soluciones web innovadoras. ¡Echa un vistazo y descubre mi pasión por el desarrollo web!
 
 ## Acerca de mí
 - 🎓 Actualmente cursando Ingeniería en Desarrollo y Gestión de Software.
