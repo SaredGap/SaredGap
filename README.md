@@ -4,6 +4,10 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a desarrollador/a de software y estudiante de ingeniería en Desarrollo y Gestión de Software. Me encanta resolver problemas y crear soluciones eficientes mientras continúo aprendiendo y mejorando mis habilidades de desarrollo.
 
+## Actividad reciente en GitHub
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Acerca de mí
 - 🎓 Actualmente cursando Ingeniería en Desarrollo y Gestión de Software.
 - 💻 Apasionado/a por la resolución de problemas y la creación de soluciones eficientes.
