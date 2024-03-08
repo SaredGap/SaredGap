@@ -1,6 +1,6 @@
 # ¡Hola, soy Sared! 👋
 
-[![Spotify](https://img.shields.io/badge/Spotify-Sared-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/Sared Garcia)
+[![Spotify](https://img.shields.io/badge/Spotify-Sared%20Garcia-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/Sared%20Garcia)
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado/a desarrollador/a de software y estudiante de ingeniería en Desarrollo y Gestión de Software. Me encanta resolver problemas y crear soluciones eficientes mientras continúo aprendiendo y mejorando mis habilidades de desarrollo.
 
